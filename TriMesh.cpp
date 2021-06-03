@@ -1,4 +1,5 @@
-﻿#include "TriMesh.h"
+// 三维点模型类
+#include "TriMesh.h"
 
 
 // 一些基础颜色
