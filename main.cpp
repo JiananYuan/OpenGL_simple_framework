@@ -1,3 +1,5 @@
+// @Function: 此demo程序绘制一个三角形
+
 #include "Angel.h"
 #include <string>
 
