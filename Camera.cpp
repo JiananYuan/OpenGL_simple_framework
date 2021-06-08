@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 // 这是OpenGl中的照相机类
-/* */
+=======
+﻿// ?????
+>>>>>>> 249c843b8f9b104efaca069f35968b25808e02a2
 #include "Camera.h"
 
 Camera::Camera() { updateCamera(); };
