@@ -1,4 +1,5 @@
 // 这是OpenGl中的照相机类
+/* */
 #include "Camera.h"
 
 Camera::Camera() { updateCamera(); };
