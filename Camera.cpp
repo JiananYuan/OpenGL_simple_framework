@@ -1,5 +1,4 @@
 // 这是一个照相机类
-// xxx
 #include "Camera.h"
 
 Camera::Camera() { updateCamera(); };
