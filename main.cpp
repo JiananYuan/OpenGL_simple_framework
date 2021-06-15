@@ -1,6 +1,4 @@
 // dev
-
-
 #include "Angel.h"
 #include <string>
 
