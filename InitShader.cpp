@@ -1,3 +1,4 @@
+// 初始化片元着色器和顶点着色器
 #include "Angel.h"
 
 namespace Angel {
